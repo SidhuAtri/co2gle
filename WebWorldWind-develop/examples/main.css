@@ -1,0 +1,39 @@
+.logo {
+  height: 30px;
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.navu {
+  font: 6rem;
+  font-weight: bolder;
+  padding-right: 2px;
+}
+.hh {
+  height: 0px;
+}
+
+.bg {
+  background: url("./img/2.webp") center/cover no-repeat fixed;
+  height: 830px;
+}
+.contain {
+  border: 3px solid black;
+}
+
+.table {
+  padding: 5px;
+  font: 4rem;
+}
+
+table {
+  border: 5px solid black;
+  color: red;
+}
+
+.pics {
+  padding-top: 2px;
+  padding-bottom: 15px;
+  margin-bottom: 5px;
+}
